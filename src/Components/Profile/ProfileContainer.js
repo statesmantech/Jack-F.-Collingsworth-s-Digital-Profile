@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Image, Header } from 'semantic-ui-react'
+import { Image, Header, Grid } from 'semantic-ui-react'
 
 class ProfileContainer extends Component {
   render() {
